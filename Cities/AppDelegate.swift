@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Ödev-landmark
+//  Cities
 //
-//  Created by Macbook on 5.01.2022.
+//  Created by Macbook on 05.01.2021.
 //
 
 import UIKit
